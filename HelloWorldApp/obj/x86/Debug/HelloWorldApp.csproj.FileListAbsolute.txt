@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2010\Projects\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+c:\users\administrator\documents\visual studio 2010\Projects\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\HelloWorldApp\HelloWorldApp\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\HelloWorldApp\HelloWorldApp\obj\x86\Debug\HelloWorldApp.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\HelloWorldApp\HelloWorldApp\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\HelloWorldApp\HelloWorldApp\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\HelloWorldApp\HelloWorldApp\obj\x86\Debug\HelloWorldApp.exe
+c:\users\administrator\documents\visual studio 2010\Projects\HelloWorldApp\HelloWorldApp\obj\x86\Debug\HelloWorldApp.pdb
